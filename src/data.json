@@ -7,7 +7,7 @@
     "bio": "DIR 2023 is inviting Belgium and Netherlands-based researchers to present their work. We invite contributions of previously published articles, resouce papers (datasets and benchmarks) to be delivered as a 15-minutes lightning talks. Please, fill in the form if you would like to present your work at DIR this year. You can expect vibrant discussions and plenty of social interactions. Don't hesitate and claim your spot.",
     "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
     "email": "avishek.anand@tudelft.nl",
-    "phone": "0000",
+    "phone": "",
     "address": {
       "street": "2628 XE Delft",
       "city": "Delft",
@@ -82,20 +82,20 @@
     ],
     "team": [
       {
-        "title":"Avishek Anand (Co-organizer) (TU DELFT)"
-      }, 
-    
-      {
-        "title":"Sole Pera (Co-organizer) (TU DELFT)"
-      }, 
-      {
-        "title":"Maria Heuss (University of Amsterdam) (Diversity and Inclusion Panel organizer)"
+        "title":"Ans Mateo Corsi, TU DELFT (Publicity Chair)"
       },
       {
-        "title":"Ans Mateo Corsi (TU DELFT) (Publicity Chair)"
+        "title":"Avishek Anand, TU DELFT (Co-organizer)"
+      }, 
+  
+      {
+        "title":"Sole Pera, TU DELFT (Co-organizer)"
+      }, 
+      {
+        "title":"Maria Heuss, University of Amsterdam (Diversity and Inclusion Panel organizer)"
       },
       {
-         "title":"Venktesh V (TU DELFT) (Webmaster)"
+         "title":"Venktesh V, TU DELFT (Webmaster)"
        }
   
        
