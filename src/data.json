@@ -82,20 +82,20 @@
     ],
     "team": [
       {
-        "title":"Avishek Anand (avishek.anand@tudelft.nl) (TU DELFT)"
+        "title":"Avishek Anand (Co-organizer) (TU DELFT)"
       }, 
     
       {
-        "title":"Sole Pera (m.s.pera@tudelft.nl) (TU DELFT)"
+        "title":"Sole Pera (Co-organizer) (TU DELFT)"
       }, 
       {
         "title":"Maria Heuss (University of Amsterdam) (Diversity and Inclusion Panel organizer)"
       },
       {
-        "title":"Ans Mateo Corsi (Matteo Corsi@tudelft.nl) (TU DELFT) (Publicity Chair)"
+        "title":"Ans Mateo Corsi (TU DELFT) (Publicity Chair)"
       },
       {
-         "title":"Venktesh V (v.viswanathan-1@tudelft.nl) (TU DELFT) (Webmaster)"
+         "title":"Venktesh V (TU DELFT) (Webmaster)"
        }
   
        
@@ -103,7 +103,7 @@
     "work": [
       {
         "title": "9:00 - 10:30 Opening + Session 1",
-        "description": "Welcome followed by invited talks on theme of efficient retrieval systems"
+        "description": "Welcome followed by invited talks"
       },
       {
         "title": "10:30 - 11:00  Break",
@@ -111,7 +111,7 @@
       },
       {
         "title": "11:00 - 12:30 Session 2",
-        "description": "Lightning Talks on IR Resources (datasets and benchmarks)"
+        "description": "Lightning Talks"
       },
       {
         "title": "12:30 - 14:00 Lunch",
