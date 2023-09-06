@@ -4,9 +4,9 @@
     "occupation": "The 22nd Dutch-Belgian Information Retrieval Workshop (Offline)",
     "description": "Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
     "image": "tu_delft.jpg",
-    "bio": "DIR 2023 is inviting Belgium and Netherlands-based researchers to present their work. We invite contributions of previously published articles to be delivered as a 15-minutes lightning talks. Please, fill in the form if you would like to present your work at DIR this year or would like to nominate someone. You can expect vibrant discussions and plenty of social interactions. Don't hesitate and claim your spot.",
+    "bio": "DIR 2023 is inviting Belgium and Netherlands-based researchers to present their work. We invite contributions of previously published articles, resouce papers (datasets and benchmarks) to be delivered as a 15-minutes lightning talks. Please, fill in the form if you would like to present your work at DIR this year. You can expect vibrant discussions and plenty of social interactions. Don't hesitate and claim your spot.",
     "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "dir2023@tudelft.nl",
+    "email": "avishek.anand@tudelft.nl",
     "phone": "0000",
     "address": {
       "street": "2628 XE Delft",
@@ -14,8 +14,8 @@
       "state": "Netherlands",
       "zip": "2628 XE"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload": "http://timbakerdev.com",
+    "website": "http://www.com",
+    "resumedownload": "http://.com",
     "social": [
       {
         "name": "linkedin",
@@ -82,19 +82,28 @@
     ],
     "team": [
       {
-        "title":"Sole Pera"
+        "title":"Avishek Anand (avishek.anand@tudelft.nl) (TU DELFT)"
+      }, 
+    
+      {
+        "title":"Sole Pera (m.s.pera@tudelft.nl) (TU DELFT)"
       }, 
       {
-         "title":"Avishek Anand"
-       }, 
-       {
-         "title":"Venktesh V"
+        "title":"Maria Heuss (University of Amsterdam) (Diversity and Inclusion Panel organizer)"
+      },
+      {
+        "title":"Ans Mateo Corsi (Matteo Corsi@tudelft.nl) (TU DELFT) (Publicity Chair)"
+      },
+      {
+         "title":"Venktesh V (v.viswanathan-1@tudelft.nl) (TU DELFT) (Webmaster)"
        }
+  
+       
      ],
     "work": [
       {
         "title": "9:00 - 10:30 Opening + Session 1",
-        "description": "Welcome notes followed by session on LLMs for search"
+        "description": "Welcome followed by invited talks on theme of efficient retrieval systems"
       },
       {
         "title": "10:30 - 11:00  Break",
@@ -102,11 +111,11 @@
       },
       {
         "title": "11:00 - 12:30 Session 2",
-        "description": ""
+        "description": "Lightning Talks on IR Resources (datasets and benchmarks)"
       },
       {
         "title": "12:30 - 14:00 Lunch",
-        "description": ""
+        "description": "The lunch break also involves poster sessions and events to socialize with fellow researchers"
       },
       {
         "title": "14:00 - 15:30 Session 3",
@@ -118,11 +127,11 @@
       },
       {
         "title": "16:00 - 16:45 Panel",
-        "description": ""
+        "description": "Panel on Diversity and Inclusion in Information Retrieval community"
       },
       {
         "title": "16:45 - 17:00 Closing",
-        "description": ""
+        "description": "Closing remarks"
       }
     ],
     "students": [
@@ -178,7 +187,7 @@
       {
         "title": "Canadian Wanderlust",
         "category": "My Travel Blog for my post-university travels",
-        "image": "canadian-wanderlust.jpg",
+        "image": "canadian-wanderlus.jpg",
         "url": "https://www.canadianwanderlust.com"
       },
       {

@@ -24,8 +24,9 @@ class Header extends Component {
          <ul id="nav" className="nav">
             <li className="current"><a className="smoothscroll" href="#home">DIR2023</a></li>
             <li><a className="smoothscroll" href="#about">About</a></li>
+            <li><a className="smoothscroll" href="#resume">Schedule</a></li>
+
             <li><a className="smoothscroll" href="#resume   ">Sponsors</a></li>
-	         <li><a className="smoothscroll" href="#resume">Schedule</a></li>
 
             <li><a className="smoothscroll" href="#team">Team</a></li>
 
@@ -37,6 +38,7 @@ class Header extends Component {
 
       <div className="row banner">
          <div className="banner-text">
+            <img src={"images/dir_logo.png"} />
             <h2 className="responsive-headline">{name}.</h2>
             <h4> <span>{occupation}</span>.</h4>
             <hr />

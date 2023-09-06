@@ -8,7 +8,7 @@ class Resume extends Component {
          var sponsors = this.props.data.sponsors.map(function (sponsor) {
             return <div key={sponsor.name} className="columns portfolio-item">
                <div className="item-wrap">
-                  <img alt={sponsor.name} src={'images/portfolio/' + sponsor.image} />
+                  {/* <img alt={sponsor.name} src={'images/portfolio/' + sponsor.image} /> */}
 
                   <div className="link-icon"><i className="fa fa-link"></i></div>
                </div>
@@ -45,7 +45,17 @@ class Resume extends Component {
       return (
          <div>
       <section id="resume">
+      <div className="row schedule">
 
+         <div className="three columns header-col">
+            <h1><span>Tentative Schedule</span></h1>
+         </div>
+
+         <div className="nine columns main-col">
+          {schedule}
+        </div>
+    </div>
+    </section>
       <div className="row education">
          <div className="three columns header-col">
             <h1><span>Sponsors</span></h1>
@@ -60,17 +70,7 @@ class Resume extends Component {
 
 
 
-      <div className="row schedule">
 
-         <div className="three columns header-col">
-            <h1><span>Schedule</span></h1>
-         </div>
-
-         <div className="nine columns main-col">
-          {schedule}
-        </div>
-    </div>
-    </section>
 
 
  
