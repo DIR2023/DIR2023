@@ -9,7 +9,7 @@ import Resume from './Components/Resume';
 import Contact from './Components/Contact';
 import Testimonials from './Components/Testimonials';
 import Portfolio from './Components/Portfolio';
-
+import data from "./data.json"
 class App extends Component {
 
   constructor(props){
@@ -40,7 +40,8 @@ class App extends Component {
   }
 
   componentDidMount(){
-    this.getdata();
+    //this.getdata();
+    this.setState({data: data})
   }
 
   render() {
