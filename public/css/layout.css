@@ -230,8 +230,34 @@ ul#nav li.current a { color: #F06000; }
    margin-right: 15px;
    font-size: 20px;
 }
+.categoryTitle {
+   font-family: "Droid Serif", "Helvetica Neue", Helvetica,Arial,sans-serif;
+   font-weight: 700;
+   color: white;
 
+}
 
+li {
+   line-height: 25px !important;
+
+}
+.cat {
+   padding: 1em;
+}
+.responsive-headline {
+   font-size: 75px;
+   font-weight: 700;
+   line-height: 75px;
+   color: white;
+}
+
+.title {
+   font-family: "Droid Serif", "Helvetica Neue", Helvetica,Arial,sans-serif;
+   font-size: 40px;
+   font-style: italic;
+   line-height: 40px;
+   color: white;
+}
 /* ------------------------------------------------------------------ */
 /* d. Resume Section
 /* ------------------------------------------------------------------ */
