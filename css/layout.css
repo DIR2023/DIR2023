@@ -186,7 +186,7 @@ ul#nav li.current a { color: #F06000; }
 /* c. About Section
 /* ------------------------------------------------------------------ */
 
-#about {
+#about{
    background: #2B2B2B;
    padding-top: 96px;
    padding-bottom: 66px;
@@ -194,15 +194,22 @@ ul#nav li.current a { color: #F06000; }
    font-size: 2rem;
 }
 
-#about a, #about a:visited  { color: #fff; }
-#about a:hover, #about a:focus { color: #11ABB0; }
+#call {
+   background: #2B2B2B;
+   padding-bottom: 66px;
+   overflow: hidden;
+   font-size: 2rem;
+}
 
-#about h2 {
+#about a, #about a:visited,#call a, #call a:visited  { color: #fff; }
+#about a:hover, #about a:focus, #call a:hover, #call a:focus { color: #11ABB0; }
+
+#about h2, #call h2 {
    font: 22px/30px 'opensans-bold', sans-serif;
    color: #fff;
    margin-bottom: 12px;
 }
-#about p {
+#about p,#call p {
    line-height: 30px;
    color: #7A7A7A;
 }
