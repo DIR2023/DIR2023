@@ -24,11 +24,14 @@ class Header extends Component {
          <ul id="nav" className="nav">
             <li className="current"><a className="smoothscroll" href="#home">DIR2023</a></li>
             <li><a className="smoothscroll" href="#about">About</a></li>
+            <li><a className="smoothscroll" href="#call">Call</a></li>
+
             <li><a className="smoothscroll" href="#resume">Schedule</a></li>
 
             <li><a className="smoothscroll" href="#resume   ">Sponsors</a></li>
 
             <li><a className="smoothscroll" href="#team">Team</a></li>
+            <li><a className="smoothscroll" href="#contact">Contact</a></li>
 
             {/* <li><a className="smoothscroll" href="#testimonials">Testimonials</a></li> */}
             {/* <li><a className="smoothscroll" href="#contact">Contact</a></li> */}

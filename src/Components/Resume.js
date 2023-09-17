@@ -4,6 +4,14 @@ class Resume extends Component {
    render() {
 
       if (this.props.data) {
+         console.log("address",this.props)
+         var street = this.props.address.address.street;
+         var name = this.props.address.name;
+         var city = this.props.address.address.city;
+         var state = this.props.address.address.state;
+         var zip = this.props.address.address.zip;
+         var phone = this.props.address.phone;
+         var email = this.props.address.email;
          var skillmessage = this.props.data.skillmessage;
          var sponsors = this.props.data.sponsors.map(function (sponsor) {
             return <div key={sponsor.name} className="columns portfolio-item">
@@ -85,6 +93,29 @@ class Resume extends Component {
             </div>
             </div>
 
+         </div>
+
+
+         </section>
+         <section id="contact">
+
+<div className="row">
+            <div className="columns contact-details">
+               <h2>Contact Details</h2>
+               <p className="address">
+                  <span>{name}</span><br />
+                  <span>{street}<br />
+                     {city} {state}, {zip}
+                  </span><br />
+                  <span>{phone}</span><br />
+                  <span>{email}</span>
+               </p>
+            </div>
+            {/* <div className="columns download">
+         <p>
+            <a href={resumeDownload} className="button"><i className="fa fa-download"></i>Download Resume</a>
+         </p>
+      </div> */}
          </div>
          </section>
       </div >
