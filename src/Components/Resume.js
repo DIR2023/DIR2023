@@ -52,7 +52,7 @@ class Resume extends Component {
 
       return (
          <div>
-      <section id="resume">
+      <section id="schedule">
       <div className="row schedule">
 
          <div className="three columns header-col">

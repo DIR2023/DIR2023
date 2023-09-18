@@ -4,7 +4,7 @@
     "occupation": "The 21st Dutch-Belgian Information Retrieval Workshop (In-Person), November 27, 2023",
     "description": "Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
     "image": "tu_delft.jpg",
-    "about":"The 21st Dutch-Belgian Information Retrieval (DIR) Workshop is a forum where researchers and practitioners in Information Retrieval come together to connect, exchange ideas, and discuss the latest developments in IR and related research areas. DIR has an established tradition dating back to the year 2000, making DIR2023 the 21th edition. Please find an incomplete list of earlier editions here ",
+    "about":"The 21st Dutch-Belgian Information Retrieval (DIR) Workshop is a forum where researchers and practitioners in Information Retrieval come together to connect, exchange ideas, and discuss the latest developments in IR and related research areas. DIR has an established tradition dating back to the year 2000, making DIR2023 the 21st edition. Please find an incomplete list of earlier editions here ",
     "bio": "At this full-day event there will be plenty of opportunities for students, academics, and industry professionals to interact and learn from one another.  In DIR 2023, we are excited to continue the dialogue on diversity and inclusion within the IR community. DIR 2023 will also feature special sessions shining a spotlight on the region's ongoing research. We invite you to submit contributions in three categories",
     "categories": [
       {"name":"Published work",
@@ -15,7 +15,7 @@
     "description":"This refers to demos, datasets, experimental platforms (already presented at other venues) that are of interest to the IR community. We also welcome European projects seeking exposure  among workshop attendees, ending this event, as well as aiming to foster new partnerships, and for recruiting purposes."}
     ],
     "contactmessage": "Please note that the special sessions have limited presentation slots available. Our goal is to curate a diverse program that reflects the breadth of IR research across the Belgian and Dutch communities. Accepted contributions in the published work and research spotlight categories will receive a 15-minute oral presentation (12 minutes for presentation and 3 minutes for Q&A), while resources will be presented as posters.",
-    "email": "DIR2023@tudelft.nl",
+    "email": "avishek.anand@tudelft.nl",
     "phone": "",
     "address": {
       "street": "2628 XE Delft",
@@ -90,18 +90,18 @@
       }
     ],
     "team": [
-      {
-        "title":"Ans Mateo Corsi, TU DELFT (Publicity Chair)"
-      },
+      
       {
         "title":"Avishek Anand, TU DELFT (Co-organizer)"
       }, 
-  
       {
         "title":"Sole Pera, TU DELFT (Co-organizer)"
       }, 
       {
         "title":"Maria Heuss, University of Amsterdam (Diversity and Inclusion Panel organizer)"
+      },
+      {
+        "title":"Matteo Corsi, TU DELFT (Publicity Chair)"
       },
       {
          "title":"Venktesh V, TU DELFT (Webmaster)"
