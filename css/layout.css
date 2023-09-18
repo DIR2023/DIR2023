@@ -806,7 +806,10 @@ call-to-action .button {
     zoom: 1;
     *display: inline;
 }
-h2 {
+#call h2 {
+   color: white!important;
+}
+#about h2 {
    color: white!important;
 }
 .flex-control-paging li a {
