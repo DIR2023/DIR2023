@@ -211,7 +211,7 @@ a[href]
 
 #about h2, #call h2, {
    font: 22px/30px 'opensans-bold', sans-serif;
-   color: #fff !important;
+   color: white!important;
    margin-bottom: 12px;
 }
 #about p,#call p {
