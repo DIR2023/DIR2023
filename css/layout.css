@@ -211,7 +211,7 @@ a[href]
 
 #about h2, #call h2, {
    font: 22px/30px 'opensans-bold', sans-serif;
-   color: #fff;
+   color: #fff !important;
    margin-bottom: 12px;
 }
 #about p,#call p {
@@ -274,31 +274,31 @@ li {
 /* d. Resume Section
 /* ------------------------------------------------------------------ */
 
-#resume,#team {
+#schedule,#team {
    background: #fff;
    padding-top: 90px;
    padding-bottom: 72px;
    overflow: hidden;
 }
 
-#resume a, #resume a:visited  { color: #11ABB0; }
-#resume a:hover, #resume a:focus { color: #313131; }
+#schedule a, #schedule a:visited  { color: #11ABB0; }
+#schedule a:hover, #schedule a:focus { color: #313131; }
 
-#resume h1 {
+#schedule h1 {
    font: 18px/24px 'opensans-bold', sans-serif;
    text-transform: uppercase;
    letter-spacing: 1px;
 }
-#resume h1 span {
+#schedule h1 span {
    border-bottom: 3px solid #11ABB0;
    padding-bottom: 6px;
 }
-#resume h3 {
+#schedule h3 {
    font: 25px/30px 'opensans-bold', sans-serif;
 }
 
-#resume .header-col { padding-top: 9px; }
-#resume .main-col { padding-right: 10%; }
+#schedule .header-col { padding-top: 9px; }
+#schedule .main-col { padding-right: 10%; }
 
 ul {
    list-style: none;
@@ -310,17 +310,17 @@ ul {
    padding-bottom: 24px;
    border-bottom: 1px solid #E8E8E8;
 }
-#resume .info {
+#schedule .info {
    font: 16px/24px 'librebaskerville-italic', serif;
    color: #6E7881;
    margin-bottom: 18px;
    margin-top: 9px;
 }
-#resume .info span {
+#schedule .info span {
    margin-right: 5px;
    margin-left: 5px;
 }
-#resume .date {
+#schedule .date {
    font: 15px/24px 'opensans-regular', sans-serif;
    margin-top: 6px;
 }
@@ -660,9 +660,7 @@ ul {
    color: #EBEEEE;
    margin-bottom: 6px;
 }
-#call-to-action h2 a {
-   color: inherit;
-}
+
 #call-to-action p {
    color: #636363;
    font-size: 17px;
@@ -807,6 +805,9 @@ call-to-action .button {
     display: inline-block;
     zoom: 1;
     *display: inline;
+}
+h2 {
+   color: white!important;
 }
 .flex-control-paging li a {
     width: 12px;
