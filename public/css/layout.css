@@ -201,10 +201,15 @@ ul#nav li.current a { color: #F06000; }
    font-size: 2rem;
 }
 
-#about a, #about a:visited,#call a, #call a:visited  { color: #fff; }
+a[href]
+{
+    text-decoration: underline;
+}
+
+#about a, #about a:visited,#call a, #call a:visited, .contact-details  { color: #fff; }
 #about a:hover, #about a:focus, #call a:hover, #call a:focus { color: #11ABB0; }
 
-#about h2, #call h2 {
+#about h2, #call h2, {
    font: 22px/30px 'opensans-bold', sans-serif;
    color: #fff;
    margin-bottom: 12px;
@@ -219,7 +224,7 @@ ul#nav li.current a { color: #F06000; }
    height: 120px;
    border-radius: 100%;
 }
-#about .contact-details { width: 41.66667%; }
+#about .contact-details { width: 41.66667%;}
 #about .download {
    width: 58.33333%;
    padding-top: 6px;

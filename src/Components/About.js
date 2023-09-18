@@ -57,7 +57,7 @@ class About extends Component {
                      <p>{bio}</p>
 
                      <p className="cat"><ol>{categories}</ol></p>
-                     <p>Please submit your contributions <a href="https://tudelft.fra1.qualtrics.com/jfe/form/SV_bpVNFS6uxPIijki">here</a></p>
+                     <p>Please submit your <b style={{ color: 'white', fontweight:700, fontSize:25 }}>contributions</b> by submitting the form <a style={{ color: 'white', fontSize:25, fontweight:700 }} href="https://tudelft.fra1.qualtrics.com/jfe/form/SV_bpVNFS6uxPIijki">here</a></p>
                      <p>{contactMessage}</p>
                      <h2>Important dates</h2>
                      <p>
