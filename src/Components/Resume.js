@@ -18,7 +18,6 @@ class Resume extends Component {
                <div className="item-wrap">
                   {/* <img alt={sponsor.name} src={'images/portfolio/' + sponsor.image} /> */}
 
-                  <div className="link-icon"><i className="fa fa-link"></i></div>
                </div>
             </div>
 

@@ -44,9 +44,10 @@ class Header extends Component {
             <img src={"images/dir_logo.png"} />
             <h2 className="responsive-headline">{name}</h2>
             <h4 className="title"> <span>{occupation}</span>.</h4>
+            <h4 className="title"> <span>TU Delft</span></h4>
+
             <hr />
             <ul className="social">
-               {networks}
             </ul>
          </div>
       </div>

@@ -211,12 +211,15 @@ a[href]
 
 #about h2, #call h2, {
    font: 22px/30px 'opensans-bold', sans-serif;
-   color: #fff !important;
+   color: white!important;
    margin-bottom: 12px;
 }
 #about p,#call p {
    line-height: 30px;
    color: #7A7A7A;
+}
+#home {
+   height: 980px !important;
 }
 #about .profile-pic {
    position: relative;
@@ -806,7 +809,10 @@ call-to-action .button {
     zoom: 1;
     *display: inline;
 }
-h2 {
+#call h2 {
+   color: white!important;
+}
+#about h2 {
    color: white!important;
 }
 .flex-control-paging li a {
