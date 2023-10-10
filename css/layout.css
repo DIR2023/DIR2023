@@ -218,6 +218,9 @@ a[href]
    line-height: 30px;
    color: #7A7A7A;
 }
+#home {
+   height: 980px !important;
+}
 #about .profile-pic {
    position: relative;
    width: 120px;
