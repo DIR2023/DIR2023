@@ -186,7 +186,7 @@ ul#nav li.current a { color: #F06000; }
 /* c. About Section
 /* ------------------------------------------------------------------ */
 
-#about,#registration{
+#about{
    background: #2B2B2B;
    padding-top: 96px;
    padding-bottom: 66px;
@@ -196,6 +196,13 @@ ul#nav li.current a { color: #F06000; }
 
 #call {
    background: #2B2B2B;
+   padding-bottom: 66px;
+   overflow: hidden;
+   font-size: 2rem;
+}
+
+#registration {
+   background: #2B2B2B !important;
    padding-bottom: 66px;
    overflow: hidden;
    font-size: 2rem;
