@@ -206,10 +206,10 @@ a[href]
     text-decoration: underline;
 }
 
-#about a, #about a:visited,#call a, #call a:visited, .contact-details  { color: #fff; }
-#about a:hover, #about a:focus, #call a:hover, #call a:focus { color: #11ABB0; }
+#about a,#registration a,  #about a:visited,#call a, #call a:visited, .contact-details  { color: #fff; }
+#about a:hover, #registration a:hover, #about a:focus, #call a:hover, #call a:focus { color: #11ABB0; }
 
-#about h2, #call h2, {
+#about h2, #call h2, #registration h2 {
    font: 22px/30px 'opensans-bold', sans-serif;
    color: white!important;
    margin-bottom: 12px;
