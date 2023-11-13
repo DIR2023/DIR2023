@@ -70,7 +70,7 @@
     "work": [
       {
         "title": "9:15 - 10:45 Opening + Session 1",
-        "description": "<p className=\"scheduledescription\">Predictive Uncertainty-based Bias Mitigation in Ranking presented by </p> <strong>Maria Heuss</strong> <br /> <p>A Lightweight Method for Modeling Confidence in Recommendations with Learned Beta Distributions presented by</p> <b>Norman Knyazev</b><br /> <p>Query Performance Prediction: From Ad-hoc to Conversational Search presented by</p> <b>Chuan Meng</b><br /> <p>Personal Entity, Concept, and Named Entity Linking in Conversations presented by</p><b> Hideaki Joko</b><br />"
+        "description": "<p className=\"scheduledescription\">Predictive Uncertainty-based Bias Mitigation in Ranking presented by <strong>Maria Heuss</strong></p>  <br /> <p>A Lightweight Method for Modeling Confidence in Recommendations with Learned Beta Distributions presented by</p> <b>Norman Knyazev</b><br /> <p>Query Performance Prediction: From Ad-hoc to Conversational Search presented by</p> <b>Chuan Meng</b><br /> <p>Personal Entity, Concept, and Named Entity Linking in Conversations presented by</p><b> Hideaki Joko</b><br />"
       },
  
       {
