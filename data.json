@@ -38,57 +38,15 @@
     "sponsors": [
       {
         "name": "None",
-        "image": "smirkspace.jpg"
+        "image": "sigir.png"
       },
       {
         "name": "None",
-        "image": "smirkspace.jpg"
+        "image": "siks.png"
 
       }
     ],
-    "publications": [
-     {
-        "publication":"Hate is the New Infodemic: A Topic-aware Modeling of Hate Speech Diffusion on Twitter",
-        "authors": "Sarah Masud, Subhabrata Dutta, Sakshi Makkar, Chhavi Jain, Vikram Goyal, Amitava Das, Tanmoy Chakraborty",
-        "conference":"2021 IEEE 37th (ICDE)",
-        "link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9458789"
-      }, 
-      {
-        "publication":"TagRec: Automated Tagging of Questions with Hierarchical Learning Taxonomy",
-        "authors": "V Venktesh, Mukesh Mohania, Vikram Goyal",
-        "conference":"Joint European Conference on Machine Learning and Knowledge Discovery in Databases (ECML-PKDD 2021)",
-        "link": "https://link.springer.com/chapter/10.1007/978-3-030-86517-7_24"
-
-      }, 
-      {
-        "publication":"A Navigation System for Safe Routing",
-        "authors": "Ramneek Kaur, Vikram Goyal, Venkata MV Guntur, Aakanksha Saini, Kaushal Sanadhya, Ritvik Gupta, Siftee Ratra",
-        "conference":"2021 22nd IEEE International Conference on Mobile Data Management (MDM)",
-        "link":"https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9474887"
-
-      },
-      {
-        "publication":"See, hear, read: Leveraging multimodality with guided attention for abstractive text summarization",
-        "authors": "Yash Kumar Atri, Shraman Pramanick, Vikram Goyal, Tanmoy Chakraborty",
-        "conference":"Knowledge-Based Systems Journal 2021",
-        "link":"https://www.sciencedirect.com/science/article/pii/S0950705121004159"
-
-      },
-      {
-        "publication":"Finding the most navigable path in road networks",
-        "authors": "Ramneek Kaur, Vikram Goyal, Venkata MV Gunturi",
-        "conference":"GeoInformatica 2021",
-        "link":"https://link.springer.com/article/10.1007/s10707-020-00428-5"
-
-      },
-      {
-        "publication":"High-utility and diverse itemset mining",
-        "authors": "Amit Verma, Siddharth Dawar, Raman Kumar, Shamkant Navathe, Vikram Goyal",
-        "conference":"Applied Intelligence 2021",
-        "link":"https://link.springer.com/article/10.1007/s10489-020-02063-x"
-
-      }
-    ],
+    "publications": [],
     "team": [
       
       {
@@ -112,12 +70,12 @@
     "work": [
       {
         "title": "9:00 - 10:30 Opening + Session 1",
-        "description": "Welcome followed by invited talks"
+        "description": "Predictive Uncertainty-based Bias Mitigation in Ranking presented by <strong>Maria Heuss</strong> <br /> A Lightweight Method for Modeling Confidence in Recommendations with Learned Beta Distributions presented by <b>Norman Knyazev</b><br /> Query Performance Prediction: From Ad-hoc to Conversational Search presented by <b>Chuan Meng</b><br /> Personal Entity, Concept, and Named Entity Linking in Conversations presented by<b> Hideaki Joko</b><br />"
       },
  
       {
-        "title": "11:00 - 12:30 Session 2",
-        "description": "Invited or Spotlight Talks"
+        "title": "11:30 - 12:30 Session 2 (Keynote Talk)",
+        "description": "Keynote by Professor Suzan Verberne on <h1>Information Retrieval in the age of LLMs</h1>"
       },
       {
         "title": "12:30 - 14:00 Lunch",
@@ -125,10 +83,10 @@
       },
       {
         "title": "14:00 - 15:30 Session 3",
-        "description": ""
+        "description": "OpenWebSearch.eu: An Open Web Index for Open Web Search presented by <b>Djoerd Hiemstra</b> <br/> Doubly-Robust Estimation for Correcting Position-Bias in Click Feedback for Unbiased Learning to Rank presented by <b>Harrie Oosterhuis</b><br/> An Offline Metric for the Debiasedness of Click Models  presented by <b>Philipp Hager</b><br/> A Test Collection of Synthetic Documents for Training Rankers: ChatGPT vs. Human Experts presented by <b>Arian Askari</b><br/> NORMalize: The First Workshop on Normative Design and Evaluation of Recommender Systems presented by <b>Sanne Vrijenhoek and Alain Starke</b><br/> Safe Deployment for Counterfactual Learning to Rank with Exposure-Based Risk Minimization presented by <b>Shashank Gupta</b><br/>"
       },
       {
-        "title": "16:00 - 16:45 Panel",
+        "title": "16:00 - 16:45 Diversity Panel",
         "description": "Panel on Diversity and Inclusion in Information Retrieval community"
       },
       {
