@@ -186,12 +186,25 @@ ul#nav li.current a { color: #F06000; }
 /* c. About Section
 /* ------------------------------------------------------------------ */
 
+#keynote {
+   background: #2B2B2B;
+   padding-bottom: 66px;
+   overflow: hidden;
+   font-size: 2rem;
+   color: #7A7A7A;
+}
+#keynote h1 {
+   color: white !important;
+}
 #about{
    background: #2B2B2B;
    padding-top: 96px;
    padding-bottom: 66px;
    overflow: hidden;
    font-size: 2rem;
+}
+.panel-body > p {
+   font: 15px 'opensans', sans-serif;
 }
 
 #call {
