@@ -186,7 +186,10 @@ ul#nav li.current a { color: #F06000; }
 /* c. About Section
 /* ------------------------------------------------------------------ */
 
-#keynote {
+.diversity {
+   width: 139px;
+}
+#keynote, #diversity {
    background: #2B2B2B;
    padding-bottom: 66px;
    overflow: hidden;
@@ -194,6 +197,9 @@ ul#nav li.current a { color: #F06000; }
    color: #7A7A7A;
 }
 #keynote h1 {
+   color: white !important;
+}
+#diversity h1 {
    color: white !important;
 }
 #about{
