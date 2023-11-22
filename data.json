@@ -79,15 +79,15 @@
       },
       {
         "title": "12:30 - 14:00 Lunch",
-        "description": "<p>The lunch break also involves poster sessions and events to socialize with fellow researchers"
+        "description": "<p>The lunch break"
       },
       {
         "title": "14:00 - 15:30 Session 2",
         "description": "<p>OpenWebSearch.eu: An Open Web Index for Open Web Search presented by</p> <b>Djoerd Hiemstra</b> <br/> <p>Doubly-Robust Estimation for Correcting Position-Bias in Click Feedback for Unbiased Learning to Rank presented by </p> <b>Harrie Oosterhuis</b><br/> <p>An Offline Metric for the Debiasedness of Click Models  presented by</p> <b>Philipp Hager</b><br/> <p>A Test Collection of Synthetic Documents for Training Rankers: ChatGPT vs. Human Experts presented by</p> <b>Arian Askari</b><br/> <p>NORMalize: The First Workshop on Normative Design and Evaluation of Recommender Systems presented by</p> <b>Sanne Vrijenhoek and Alain Starke</b><br/> <p>Safe Deployment for Counterfactual Learning to Rank with Exposure-Based Risk Minimization presented by</p> <b>Shashank Gupta</b><br/>"
       },
       {
-        "title": "16:00 - 16:45 Diversity Session",
-        "description": "<p>Session on Diversity and Inclusion in Information Retrieval community</p>"
+        "title": "16:00 - 16:45 Diversity Session: On Relevance",
+        "description": "<p>Session on Diversity and Inclusion in Information Retrieval community presented by Cynthia C. S. Liem</p>"
       },
       {
         "title": "16:45 - 17:00 Closing",
