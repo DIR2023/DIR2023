@@ -202,7 +202,7 @@ ul#nav li.current a { color: #F06000; }
 #diversity h1 {
    color: white !important;
 }
-#about{
+#about, #location{
    background: #2B2B2B;
    padding-top: 96px;
    padding-bottom: 66px;
@@ -235,12 +235,12 @@ a[href]
 #about a,#registration a,  #about a:visited,#call a, #call a:visited, .contact-details  { color: #fff; }
 #about a:hover, #registration a:hover, #about a:focus, #call a:hover, #call a:focus { color: #11ABB0; }
 
-#about h2, #call h2, #registration h2 {
+#about h2, #call h2, #registration h2, #location h2 {
    font: 22px/30px 'opensans-bold', sans-serif;
    color: white!important;
    margin-bottom: 12px;
 }
-#about p,#call p {
+#about p,#call p, #location p {
    line-height: 30px;
    color: #7A7A7A;
 }
